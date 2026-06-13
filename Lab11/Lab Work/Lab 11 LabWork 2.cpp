@@ -1,0 +1,20 @@
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    // Declaring and initializing first name
+    string firstName = "Zaid ";
+
+    // Declaring and initializing last name
+    string lastName = "Rauf";
+
+    // Concatenating first name and last name with a space in between
+    string fullName = firstName + " " + lastName;
+
+    // Displaying the full name
+    cout << "Full Name: " << fullName << endl;
+
+    return 0;
+}
