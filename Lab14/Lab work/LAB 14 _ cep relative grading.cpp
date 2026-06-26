@@ -1,6 +1,6 @@
 // Name: ZAID RAUF
 // CEP: Relative Grading System
-// Student: Zaid Ruf | Reg: BF25NWELE0740
+// Student: Zaid Rauf | Reg: BF25NWELE0740
 // Semester 2 | UET Peshawar, Nowshera Campus
 // =====================================================
 
